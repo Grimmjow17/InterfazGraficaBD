@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "InterfazGraficaBD": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Idelv\\OneDrive\\Desktop\\InterfazGraficaBD",
+      "jsWebView2Debugging": false,
+      "sqlDebugging": true,
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
